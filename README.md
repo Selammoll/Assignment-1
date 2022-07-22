@@ -43,4 +43,3 @@
 </div>
 </body>
 </html>
-<p>lorem</p>
